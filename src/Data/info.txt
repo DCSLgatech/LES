@@ -1,0 +1,15 @@
+Info:    DRRT: Using informed sampling.
+Info:    DRRT: Starting planning with 1 states already in datastructure
+Info:    DRRT: Initial rewiring radius of 0.50
+Info:    DRRT: Found an initial solution with a cost of 10.57 in 422 iterations (263 vertices in the graph)
+Info:    DRRT: Created 573 new states. Checked 467 rewire options. 1 goal states in tree. Final solution cost 10.565
+sol length:26
+
+
+Info:    TRUSTRRT#: Using informed sampling.
+Info:    TRUSTRRT#: Starting planning with 1 states already in datastructure
+Info:    TRUSTRRT#: Initial rewiring radius of 0.50
+Info:    TRUSTRRT#: Found an initial solution with a cost of 10.69 in 351 iterations (246 vertices in the graph, 135 rel vertices)
+Info:    TRUSTRRT#: Created 9414 new states. Checked 100046 rewire options. 1 goal states in tree. trust_region_prob_: 0.500000, useRandomGrad_:0, Final solution cost 9.137, maxDepth_:2, randomMaxDepth_:0
+sol length:38
+
